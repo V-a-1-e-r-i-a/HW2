@@ -64,7 +64,7 @@ public class Main {
         // Задача 7
         System.out.println("Задача 7");
         System.out.printf("Разница весов двух боксеров " + weightDifference + ". (1 способ)");
-        System.out.printf("Разница весов двух боксеров " + boxer2 % boxer1 + ". (2 способ)");
+        System.out.printf("Разница весов двух боксеров  " + boxer2 % boxer1 + ". (2 способ)");
 
         // Задача 8
         System.out.println("Задача 8");
