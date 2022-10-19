@@ -16,7 +16,7 @@ public class Main {
         System.out.println("Задача 2");
         dog = dog + 4;
         System.out.println(dog);
-        cat = cat +4;
+        cat = cat + 4;
         System.out.println(cat);
         paper = paper + 4;
         System.out.println(paper);
@@ -64,7 +64,6 @@ public class Main {
         // Задача 7
         System.out.println("Задача 7");
         System.out.printf("Разница весов двух боксеров " + weightDifference + ". (1 способ)");
-        System.out.printf("Разница весов двух боксеров " + boxer2 % boxer1 + ". (2 способ)");
 
         // Задача 8
         System.out.println("Задача 8");
@@ -73,9 +72,5 @@ public class Main {
         System.out.printf("Всего сотрудников в компании - " + allTime / staffTime + " человек.");
         var staffer = allTime / staffTime + 94;
         System.out.printf("Если в компании работает " + staffer + " человек, то всего " + allTime / staffer + " часов работы может быть разделено между сотрудниками.");
-
-
-
-
     }
 }
